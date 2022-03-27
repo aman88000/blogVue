@@ -24,7 +24,7 @@ export default{
             })
             this.userName='';
             this.email = '';
-        console.warn('added user', result)
+        //console.warn('added user', result)
         }
     }
 }
